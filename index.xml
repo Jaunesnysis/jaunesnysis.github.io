@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Daniel Miliuškevič</title>
+    <link>https://jaunesnysis.github.io/</link>
+    <description>Recent content on Daniel Miliuškevič</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Sep 2026 23:45:00 +0300</lastBuildDate>
+    <atom:link href="https://jaunesnysis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://jaunesnysis.github.io/posts/first-post/</link>
+      <pubDate>Tue, 29 Sep 2026 23:45:00 +0300</pubDate>
+      <guid>https://jaunesnysis.github.io/posts/first-post/</guid>
+      <description>&lt;p&gt;Hello! This is my first post on a Hugo website.
+It is built with the PaperMod theme and hosted on GitHub Pages.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
